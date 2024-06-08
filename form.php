@@ -26,4 +26,4 @@
 ?>
 
 <h1>Form Submitted Succrssfully</h1>
-<button><a href="index.html">Go Back to HomePage</a></button>
+<button class="btn"><a href="index.html">Go Back to HomePage</a></button>
